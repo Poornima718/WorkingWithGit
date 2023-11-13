@@ -85,7 +85,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <umab:GmailApplicationCard ConnectionAccountName="{x:Null}" ConnectionId="{x:Null}" Account="poornimakotamsetti@gmail.com" DisplayName="Use Gmail" EmailAddress="poornimakotamsetti@gmail.com" sap:VirtualizedContainerService.HintSize="626,754" sap2010:WorkflowViewState.IdRef="GmailApplicationCard_1" Timeout="90" UseConnectionService="False">
+    <umab:GmailApplicationCard ConnectionAccountName="{x:Null}" ConnectionId="{x:Null}" Account="poornima.kotamsetti@capgemini.com" DisplayName="Use Gmail" EmailAddress="poornima.kotamsetti@capgemini.com" sap:VirtualizedContainerService.HintSize="626,754" sap2010:WorkflowViewState.IdRef="GmailApplicationCard_1" Timeout="90" UseConnectionService="False">
       <umab:GmailApplicationCard.Body>
         <ActivityAction x:TypeArguments="um:IMailQuickHandle">
           <ActivityAction.Argument>
